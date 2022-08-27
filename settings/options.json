@@ -1,0 +1,17 @@
+{
+    "stages": [
+        {
+        "duration": "3s",
+        "target": 10
+        },
+        {
+        "duration": "2s",
+        "target": 30
+        },
+        {
+        "duration": "5s",
+        "target": 0
+        }
+    ],
+    "summaryTimeUnit": "ms"
+}
